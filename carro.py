@@ -11,6 +11,7 @@ class Carro:
         self.placa = placa
         self.comprador = None
         self.vendedor = None
+        # Comentário novo
 
     # Método de acesso
     def get_modelo(self):
